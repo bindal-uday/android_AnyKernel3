@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=PERF_RELOADED_v1.0 Kernel By @iTZ_UDAY_404
+kernel.string=eletron+ Kernel By iTZ_UDAY_404
 do.devicecheck=1
 do.modules=0
 do.systemless=1
